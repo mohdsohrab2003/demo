@@ -5,3 +5,8 @@ MY Name is Mohd Sohrab Alam (github)
 <br>
 Now I am full Stack Web Devloper
 
+#Teacher 
+Zakir Ansari
+
+#Student 
+Mohd Sohrab Alam (github)
